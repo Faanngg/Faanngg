@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hardik-parajuli
 - 👀 I’m interested in Python Programming
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me? Discord - hardik.exe
+- 📫 How to reach me? Discord - hardik.py
 
 <!---
 hardik-parajuli/hardik-parajuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
