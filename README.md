@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardik-parajuli
-- 👀 I’m interested in Python Programming
+- 👀 I’m interested in Rust Programming
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me? Discord - hardik.py
 
