@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hardik-parajuli
-- 👀 I’m interested in Rust Programming
+- 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me? Discord - fang.rs
+- 📫 How to reach me? Discord - fang.dev
 
 <!---
 hardik-parajuli/hardik-parajuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
