@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardik-parajuli
-- 👀 I’m interested in C++ 
+- 👀 I’m interested in Game Development 
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me? Discord - faanngg
 
