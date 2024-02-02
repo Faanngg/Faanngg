@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardik-parajuli
 - 👀 I’m interested in Game Development 
-- 💞️ I’m looking to collaborate on Any Project
+- 💞️ I’m looking to collaborate on Any Unity Project
 - 📫 How to reach me? Discord - faanngg
 
 <!---
