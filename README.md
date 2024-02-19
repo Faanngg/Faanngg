@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardik-parajuli
+- 👋 Hi, I’m Faanngg
 - 👀 I’m interested in Rust Lang 
 - 💞️ I’m looking to collaborate on Any Unity Project
 - 📫 How to reach me? Discord - faanngg
