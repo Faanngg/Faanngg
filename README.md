@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faanngg
-- 👀 I’m interested in C++
+- 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me? Discord - faanngg
 
